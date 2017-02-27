@@ -27,7 +27,7 @@
  * details.  That function is far faster than Watson's method and also allows
  * for Voronoi polygon output.
  *
- * Author:	Paul Wessel
+ * Author:	Paul Wessel modified by Samantha Zambo
  * Date:	1-JAN-2010
  * Version:	5 API
  */
